@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PickUpCube
+  - 1
+  - Button
+  - YellowCard
+  - Handle
+  - WrongCard
+  - Desk
+  - Room2Btn
+  - TouchHand
+  - LockBox
+  - Room2Table
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - grabbable
+  - moveable
+  - wrongHandle
+  - wrongHandle2
+  - LockBox
+  - pressBtn
+  - pressBtn2
+  - pressBtn3
+  - pressBtn4
+  - pressBtn5
+  - wrongHandle4
+  - wrongHandle5
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

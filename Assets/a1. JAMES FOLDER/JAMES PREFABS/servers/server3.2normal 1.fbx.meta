@@ -1,0 +1,814 @@
+fileFormatVersion: 2
+guid: efdbe23c91117488e9b463c3a2919809
+timeCreated: 1486546776
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ballnormal:orangelogoserver:pCube1
+    100002: ballnormal:pCube1
+    100004: ballnormal:pCube10
+    100006: ballnormal:pCube11
+    100008: ballnormal:pCube12
+    100010: ballnormal:pCube13
+    100012: ballnormal:pCube14
+    100014: ballnormal:pCube15
+    100016: ballnormal:pCube16
+    100018: ballnormal:pCube2
+    100020: ballnormal:pCube3
+    100022: ballnormal:pCube4
+    100024: ballnormal:pCube5
+    100026: ballnormal:pCube7
+    100028: ballnormal:pCube8
+    100030: ballnormal:pCube9
+    100032: ballnormal:Poodle_Server
+    100034: ballnormal:pSphere1
+    100036: ballnormal:pSphere2
+    100038: ballnormal:pSphere3
+    100040: ballnormal:transform1
+    100042: ballnormal:transform10
+    100044: ballnormal:transform11
+    100046: ballnormal:transform12
+    100048: ballnormal:transform13
+    100050: ballnormal:transform14
+    100052: ballnormal:transform15
+    100054: ballnormal:transform16
+    100056: ballnormal:transform17
+    100058: ballnormal:transform18
+    100060: ballnormal:transform19
+    100062: ballnormal:transform2
+    100064: ballnormal:transform20
+    100066: ballnormal:transform3
+    100068: ballnormal:transform4
+    100070: ballnormal:transform5
+    100072: ballnormal:transform6
+    100074: ballnormal:transform7
+    100076: ballnormal:transform8
+    100078: ballnormal:transform9
+    100080: pCube2
+    100082: polySurface17
+    100084: polySurface19
+    100086: polySurface24
+    100088: polySurface25
+    100090: polySurface26
+    100092: polySurface27
+    100094: polySurface28
+    100096: polySurface29
+    100098: polySurface30
+    100100: polySurface8
+    100102: Poodle_Server
+    100104: //RootNode
+    100106: servercompletenodes1:orangelogoserver1:pCube1
+    100108: servercompletenodes1:orangelogoserver:pCube1
+    100110: servercompletenodes1:pCube1
+    100112: servercompletenodes1:pCube10
+    100114: servercompletenodes1:pCube11
+    100116: servercompletenodes1:pCube12
+    100118: servercompletenodes1:pCube13
+    100120: servercompletenodes1:pCube14
+    100122: servercompletenodes1:pCube15
+    100124: servercompletenodes1:pCube16
+    100126: servercompletenodes1:pCube2
+    100128: servercompletenodes1:pCube3
+    100130: servercompletenodes1:pCube4
+    100132: servercompletenodes1:pCube5
+    100134: servercompletenodes1:pCube7
+    100136: servercompletenodes1:pCube8
+    100138: servercompletenodes1:pCube9
+    100140: servercompletenodes1:polySurface1
+    100142: servercompletenodes1:polySurface11
+    100144: servercompletenodes1:polySurface12
+    100146: servercompletenodes1:polySurface13
+    100148: servercompletenodes1:polySurface18
+    100150: servercompletenodes1:polySurface2
+    100152: servercompletenodes1:polySurface4
+    100154: servercompletenodes1:polySurface5
+    100156: servercompletenodes1:Poodle_Server
+    100158: servercompletenodes1:pSphere1
+    100160: servercompletenodes1:pSphere2
+    100162: servercompletenodes1:pSphere3
+    100164: servercompletenodes1:transform1
+    100166: servercompletenodes1:transform10
+    100168: servercompletenodes1:transform11
+    100170: servercompletenodes1:transform12
+    100172: servercompletenodes1:transform13
+    100174: servercompletenodes1:transform14
+    100176: servercompletenodes1:transform15
+    100178: servercompletenodes1:transform16
+    100180: servercompletenodes1:transform17
+    100182: servercompletenodes1:transform18
+    100184: servercompletenodes1:transform19
+    100186: servercompletenodes1:transform2
+    100188: servercompletenodes1:transform20
+    100190: servercompletenodes1:transform21
+    100192: servercompletenodes1:transform22
+    100194: servercompletenodes1:transform23
+    100196: servercompletenodes1:transform24
+    100198: servercompletenodes1:transform25
+    100200: servercompletenodes1:transform26
+    100202: servercompletenodes1:transform27
+    100204: servercompletenodes1:transform28
+    100206: servercompletenodes1:transform29
+    100208: servercompletenodes1:transform3
+    100210: servercompletenodes1:transform4
+    100212: servercompletenodes1:transform5
+    100214: servercompletenodes1:transform6
+    100216: servercompletenodes1:transform7
+    100218: servercompletenodes1:transform8
+    100220: servercompletenodes1:transform9
+    100222: servercompletenodes:orangelogoserver1:pCube1
+    100224: servercompletenodes:orangelogoserver:pCube1
+    100226: servercompletenodes:pCube1
+    100228: servercompletenodes:pCube10
+    100230: servercompletenodes:pCube11
+    100232: servercompletenodes:pCube12
+    100234: servercompletenodes:pCube13
+    100236: servercompletenodes:pCube14
+    100238: servercompletenodes:pCube15
+    100240: servercompletenodes:pCube16
+    100242: servercompletenodes:pCube2
+    100244: servercompletenodes:pCube3
+    100246: servercompletenodes:pCube4
+    100248: servercompletenodes:pCube5
+    100250: servercompletenodes:pCube7
+    100252: servercompletenodes:pCube8
+    100254: servercompletenodes:pCube9
+    100256: servercompletenodes:polySurface1
+    100258: servercompletenodes:polySurface11
+    100260: servercompletenodes:polySurface12
+    100262: servercompletenodes:polySurface13
+    100264: servercompletenodes:polySurface18
+    100266: servercompletenodes:polySurface2
+    100268: servercompletenodes:polySurface4
+    100270: servercompletenodes:polySurface5
+    100272: servercompletenodes:Poodle_Server
+    100274: servercompletenodes:pSphere1
+    100276: servercompletenodes:pSphere2
+    100278: servercompletenodes:pSphere3
+    100280: servercompletenodes:transform1
+    100282: servercompletenodes:transform10
+    100284: servercompletenodes:transform11
+    100286: servercompletenodes:transform12
+    100288: servercompletenodes:transform13
+    100290: servercompletenodes:transform14
+    100292: servercompletenodes:transform15
+    100294: servercompletenodes:transform16
+    100296: servercompletenodes:transform17
+    100298: servercompletenodes:transform18
+    100300: servercompletenodes:transform19
+    100302: servercompletenodes:transform2
+    100304: servercompletenodes:transform20
+    100306: servercompletenodes:transform21
+    100308: servercompletenodes:transform22
+    100310: servercompletenodes:transform23
+    100312: servercompletenodes:transform24
+    100314: servercompletenodes:transform25
+    100316: servercompletenodes:transform26
+    100318: servercompletenodes:transform27
+    100320: servercompletenodes:transform28
+    100322: servercompletenodes:transform29
+    100324: servercompletenodes:transform3
+    100326: servercompletenodes:transform4
+    100328: servercompletenodes:transform5
+    100330: servercompletenodes:transform6
+    100332: servercompletenodes:transform7
+    100334: servercompletenodes:transform8
+    100336: servercompletenodes:transform9
+    400000: ballnormal:orangelogoserver:pCube1
+    400002: ballnormal:pCube1
+    400004: ballnormal:pCube10
+    400006: ballnormal:pCube11
+    400008: ballnormal:pCube12
+    400010: ballnormal:pCube13
+    400012: ballnormal:pCube14
+    400014: ballnormal:pCube15
+    400016: ballnormal:pCube16
+    400018: ballnormal:pCube2
+    400020: ballnormal:pCube3
+    400022: ballnormal:pCube4
+    400024: ballnormal:pCube5
+    400026: ballnormal:pCube7
+    400028: ballnormal:pCube8
+    400030: ballnormal:pCube9
+    400032: ballnormal:Poodle_Server
+    400034: ballnormal:pSphere1
+    400036: ballnormal:pSphere2
+    400038: ballnormal:pSphere3
+    400040: ballnormal:transform1
+    400042: ballnormal:transform10
+    400044: ballnormal:transform11
+    400046: ballnormal:transform12
+    400048: ballnormal:transform13
+    400050: ballnormal:transform14
+    400052: ballnormal:transform15
+    400054: ballnormal:transform16
+    400056: ballnormal:transform17
+    400058: ballnormal:transform18
+    400060: ballnormal:transform19
+    400062: ballnormal:transform2
+    400064: ballnormal:transform20
+    400066: ballnormal:transform3
+    400068: ballnormal:transform4
+    400070: ballnormal:transform5
+    400072: ballnormal:transform6
+    400074: ballnormal:transform7
+    400076: ballnormal:transform8
+    400078: ballnormal:transform9
+    400080: pCube2
+    400082: polySurface17
+    400084: polySurface19
+    400086: polySurface24
+    400088: polySurface25
+    400090: polySurface26
+    400092: polySurface27
+    400094: polySurface28
+    400096: polySurface29
+    400098: polySurface30
+    400100: polySurface8
+    400102: Poodle_Server
+    400104: //RootNode
+    400106: servercompletenodes1:orangelogoserver1:pCube1
+    400108: servercompletenodes1:orangelogoserver:pCube1
+    400110: servercompletenodes1:pCube1
+    400112: servercompletenodes1:pCube10
+    400114: servercompletenodes1:pCube11
+    400116: servercompletenodes1:pCube12
+    400118: servercompletenodes1:pCube13
+    400120: servercompletenodes1:pCube14
+    400122: servercompletenodes1:pCube15
+    400124: servercompletenodes1:pCube16
+    400126: servercompletenodes1:pCube2
+    400128: servercompletenodes1:pCube3
+    400130: servercompletenodes1:pCube4
+    400132: servercompletenodes1:pCube5
+    400134: servercompletenodes1:pCube7
+    400136: servercompletenodes1:pCube8
+    400138: servercompletenodes1:pCube9
+    400140: servercompletenodes1:polySurface1
+    400142: servercompletenodes1:polySurface11
+    400144: servercompletenodes1:polySurface12
+    400146: servercompletenodes1:polySurface13
+    400148: servercompletenodes1:polySurface18
+    400150: servercompletenodes1:polySurface2
+    400152: servercompletenodes1:polySurface4
+    400154: servercompletenodes1:polySurface5
+    400156: servercompletenodes1:Poodle_Server
+    400158: servercompletenodes1:pSphere1
+    400160: servercompletenodes1:pSphere2
+    400162: servercompletenodes1:pSphere3
+    400164: servercompletenodes1:transform1
+    400166: servercompletenodes1:transform10
+    400168: servercompletenodes1:transform11
+    400170: servercompletenodes1:transform12
+    400172: servercompletenodes1:transform13
+    400174: servercompletenodes1:transform14
+    400176: servercompletenodes1:transform15
+    400178: servercompletenodes1:transform16
+    400180: servercompletenodes1:transform17
+    400182: servercompletenodes1:transform18
+    400184: servercompletenodes1:transform19
+    400186: servercompletenodes1:transform2
+    400188: servercompletenodes1:transform20
+    400190: servercompletenodes1:transform21
+    400192: servercompletenodes1:transform22
+    400194: servercompletenodes1:transform23
+    400196: servercompletenodes1:transform24
+    400198: servercompletenodes1:transform25
+    400200: servercompletenodes1:transform26
+    400202: servercompletenodes1:transform27
+    400204: servercompletenodes1:transform28
+    400206: servercompletenodes1:transform29
+    400208: servercompletenodes1:transform3
+    400210: servercompletenodes1:transform4
+    400212: servercompletenodes1:transform5
+    400214: servercompletenodes1:transform6
+    400216: servercompletenodes1:transform7
+    400218: servercompletenodes1:transform8
+    400220: servercompletenodes1:transform9
+    400222: servercompletenodes:orangelogoserver1:pCube1
+    400224: servercompletenodes:orangelogoserver:pCube1
+    400226: servercompletenodes:pCube1
+    400228: servercompletenodes:pCube10
+    400230: servercompletenodes:pCube11
+    400232: servercompletenodes:pCube12
+    400234: servercompletenodes:pCube13
+    400236: servercompletenodes:pCube14
+    400238: servercompletenodes:pCube15
+    400240: servercompletenodes:pCube16
+    400242: servercompletenodes:pCube2
+    400244: servercompletenodes:pCube3
+    400246: servercompletenodes:pCube4
+    400248: servercompletenodes:pCube5
+    400250: servercompletenodes:pCube7
+    400252: servercompletenodes:pCube8
+    400254: servercompletenodes:pCube9
+    400256: servercompletenodes:polySurface1
+    400258: servercompletenodes:polySurface11
+    400260: servercompletenodes:polySurface12
+    400262: servercompletenodes:polySurface13
+    400264: servercompletenodes:polySurface18
+    400266: servercompletenodes:polySurface2
+    400268: servercompletenodes:polySurface4
+    400270: servercompletenodes:polySurface5
+    400272: servercompletenodes:Poodle_Server
+    400274: servercompletenodes:pSphere1
+    400276: servercompletenodes:pSphere2
+    400278: servercompletenodes:pSphere3
+    400280: servercompletenodes:transform1
+    400282: servercompletenodes:transform10
+    400284: servercompletenodes:transform11
+    400286: servercompletenodes:transform12
+    400288: servercompletenodes:transform13
+    400290: servercompletenodes:transform14
+    400292: servercompletenodes:transform15
+    400294: servercompletenodes:transform16
+    400296: servercompletenodes:transform17
+    400298: servercompletenodes:transform18
+    400300: servercompletenodes:transform19
+    400302: servercompletenodes:transform2
+    400304: servercompletenodes:transform20
+    400306: servercompletenodes:transform21
+    400308: servercompletenodes:transform22
+    400310: servercompletenodes:transform23
+    400312: servercompletenodes:transform24
+    400314: servercompletenodes:transform25
+    400316: servercompletenodes:transform26
+    400318: servercompletenodes:transform27
+    400320: servercompletenodes:transform28
+    400322: servercompletenodes:transform29
+    400324: servercompletenodes:transform3
+    400326: servercompletenodes:transform4
+    400328: servercompletenodes:transform5
+    400330: servercompletenodes:transform6
+    400332: servercompletenodes:transform7
+    400334: servercompletenodes:transform8
+    400336: servercompletenodes:transform9
+    2300000: pCube2
+    2300002: polySurface17
+    2300004: polySurface19
+    2300006: polySurface24
+    2300008: polySurface25
+    2300010: polySurface26
+    2300012: polySurface27
+    2300014: polySurface28
+    2300016: polySurface29
+    2300018: polySurface30
+    2300020: polySurface8
+    3300000: pCube2
+    3300002: polySurface17
+    3300004: polySurface19
+    3300006: polySurface24
+    3300008: polySurface25
+    3300010: polySurface26
+    3300012: polySurface27
+    3300014: polySurface28
+    3300016: polySurface29
+    3300018: polySurface30
+    3300020: polySurface8
+    4300000: polySurface27
+    4300002: polySurface19
+    4300004: polySurface17
+    4300006: polySurface8
+    4300008: polySurface24
+    4300010: polySurface25
+    4300012: polySurface26
+    4300014: polySurface28
+    4300016: polySurface29
+    4300018: polySurface30
+    4300020: pCube2
+    7400000: 3.2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 3.2
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ballnormal:orangelogoserver:pCube1
+        weight: 1
+      - path: ballnormal:orangelogoserver:pCube1/ballnormal:transform5
+        weight: 1
+      - path: ballnormal:pCube1
+        weight: 1
+      - path: ballnormal:pCube1/ballnormal:transform11
+        weight: 1
+      - path: ballnormal:pCube2
+        weight: 1
+      - path: ballnormal:pCube2/ballnormal:transform17
+        weight: 1
+      - path: ballnormal:pCube3
+        weight: 1
+      - path: ballnormal:pCube3/ballnormal:transform18
+        weight: 1
+      - path: ballnormal:pCube4
+        weight: 1
+      - path: ballnormal:pCube4/ballnormal:transform19
+        weight: 1
+      - path: ballnormal:pCube5
+        weight: 1
+      - path: ballnormal:pCube5/ballnormal:transform15
+        weight: 1
+      - path: ballnormal:pCube7
+        weight: 1
+      - path: ballnormal:pCube7/ballnormal:transform16
+        weight: 1
+      - path: ballnormal:pCube8
+        weight: 1
+      - path: ballnormal:pCube8/ballnormal:transform7
+        weight: 1
+      - path: ballnormal:pCube9
+        weight: 1
+      - path: ballnormal:pCube9/ballnormal:transform8
+        weight: 1
+      - path: ballnormal:pCube10
+        weight: 1
+      - path: ballnormal:pCube10/ballnormal:transform9
+        weight: 1
+      - path: ballnormal:pCube11
+        weight: 1
+      - path: ballnormal:pCube11/ballnormal:transform13
+        weight: 1
+      - path: ballnormal:pCube12
+        weight: 1
+      - path: ballnormal:pCube12/ballnormal:transform14
+        weight: 1
+      - path: ballnormal:pCube13
+        weight: 1
+      - path: ballnormal:pCube13/ballnormal:transform6
+        weight: 1
+      - path: ballnormal:pCube14
+        weight: 1
+      - path: ballnormal:pCube14/ballnormal:transform10
+        weight: 1
+      - path: ballnormal:pCube15
+        weight: 1
+      - path: ballnormal:pCube15/ballnormal:transform2
+        weight: 1
+      - path: ballnormal:pCube16
+        weight: 1
+      - path: ballnormal:pCube16/ballnormal:transform4
+        weight: 1
+      - path: ballnormal:Poodle_Server
+        weight: 1
+      - path: ballnormal:Poodle_Server/ballnormal:transform20
+        weight: 1
+      - path: ballnormal:Poodle_Server/polySurface8
+        weight: 1
+      - path: ballnormal:Poodle_Server/polySurface17
+        weight: 1
+      - path: ballnormal:Poodle_Server/polySurface19
+        weight: 1
+      - path: ballnormal:pSphere1
+        weight: 1
+      - path: ballnormal:pSphere1/ballnormal:transform3
+        weight: 1
+      - path: ballnormal:pSphere2
+        weight: 1
+      - path: ballnormal:pSphere2/ballnormal:transform12
+        weight: 1
+      - path: ballnormal:pSphere3
+        weight: 1
+      - path: ballnormal:pSphere3/ballnormal:transform1
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: polySurface24
+        weight: 1
+      - path: polySurface25
+        weight: 1
+      - path: polySurface26
+        weight: 1
+      - path: polySurface28
+        weight: 1
+      - path: polySurface29
+        weight: 1
+      - path: polySurface30
+        weight: 1
+      - path: Poodle_Server
+        weight: 1
+      - path: Poodle_Server/polySurface27
+        weight: 1
+      - path: servercompletenodes1:orangelogoserver1:pCube1
+        weight: 1
+      - path: servercompletenodes1:orangelogoserver1:pCube1/servercompletenodes1:transform23
+        weight: 1
+      - path: servercompletenodes1:orangelogoserver:pCube1
+        weight: 1
+      - path: servercompletenodes1:orangelogoserver:pCube1/servercompletenodes1:transform5
+        weight: 1
+      - path: servercompletenodes1:pCube1
+        weight: 1
+      - path: servercompletenodes1:pCube1/servercompletenodes1:transform11
+        weight: 1
+      - path: servercompletenodes1:pCube2
+        weight: 1
+      - path: servercompletenodes1:pCube2/servercompletenodes1:transform17
+        weight: 1
+      - path: servercompletenodes1:pCube3
+        weight: 1
+      - path: servercompletenodes1:pCube3/servercompletenodes1:transform18
+        weight: 1
+      - path: servercompletenodes1:pCube4
+        weight: 1
+      - path: servercompletenodes1:pCube4/servercompletenodes1:transform19
+        weight: 1
+      - path: servercompletenodes1:pCube5
+        weight: 1
+      - path: servercompletenodes1:pCube5/servercompletenodes1:transform15
+        weight: 1
+      - path: servercompletenodes1:pCube7
+        weight: 1
+      - path: servercompletenodes1:pCube7/servercompletenodes1:transform16
+        weight: 1
+      - path: servercompletenodes1:pCube8
+        weight: 1
+      - path: servercompletenodes1:pCube8/servercompletenodes1:transform7
+        weight: 1
+      - path: servercompletenodes1:pCube9
+        weight: 1
+      - path: servercompletenodes1:pCube9/servercompletenodes1:transform8
+        weight: 1
+      - path: servercompletenodes1:pCube10
+        weight: 1
+      - path: servercompletenodes1:pCube10/servercompletenodes1:transform9
+        weight: 1
+      - path: servercompletenodes1:pCube11
+        weight: 1
+      - path: servercompletenodes1:pCube11/servercompletenodes1:transform13
+        weight: 1
+      - path: servercompletenodes1:pCube12
+        weight: 1
+      - path: servercompletenodes1:pCube12/servercompletenodes1:transform14
+        weight: 1
+      - path: servercompletenodes1:pCube13
+        weight: 1
+      - path: servercompletenodes1:pCube13/servercompletenodes1:transform6
+        weight: 1
+      - path: servercompletenodes1:pCube14
+        weight: 1
+      - path: servercompletenodes1:pCube14/servercompletenodes1:transform10
+        weight: 1
+      - path: servercompletenodes1:pCube15
+        weight: 1
+      - path: servercompletenodes1:pCube15/servercompletenodes1:transform2
+        weight: 1
+      - path: servercompletenodes1:pCube16
+        weight: 1
+      - path: servercompletenodes1:pCube16/servercompletenodes1:transform4
+        weight: 1
+      - path: servercompletenodes1:Poodle_Server
+        weight: 1
+      - path: servercompletenodes1:Poodle_Server/servercompletenodes1:polySurface1
+        weight: 1
+      - path: servercompletenodes1:Poodle_Server/servercompletenodes1:polySurface1/servercompletenodes1:transform21
+        weight: 1
+      - path: servercompletenodes1:Poodle_Server/servercompletenodes1:polySurface2
+        weight: 1
+      - path: servercompletenodes1:Poodle_Server/servercompletenodes1:polySurface2/servercompletenodes1:transform27
+        weight: 1
+      - path: servercompletenodes1:Poodle_Server/servercompletenodes1:polySurface4
+        weight: 1
+      - path: servercompletenodes1:Poodle_Server/servercompletenodes1:polySurface4/servercompletenodes1:transform26
+        weight: 1
+      - path: servercompletenodes1:Poodle_Server/servercompletenodes1:polySurface5
+        weight: 1
+      - path: servercompletenodes1:Poodle_Server/servercompletenodes1:polySurface5/servercompletenodes1:transform24
+        weight: 1
+      - path: servercompletenodes1:Poodle_Server/servercompletenodes1:polySurface11
+        weight: 1
+      - path: servercompletenodes1:Poodle_Server/servercompletenodes1:polySurface11/servercompletenodes1:transform29
+        weight: 1
+      - path: servercompletenodes1:Poodle_Server/servercompletenodes1:polySurface12
+        weight: 1
+      - path: servercompletenodes1:Poodle_Server/servercompletenodes1:polySurface12/servercompletenodes1:transform28
+        weight: 1
+      - path: servercompletenodes1:Poodle_Server/servercompletenodes1:polySurface13
+        weight: 1
+      - path: servercompletenodes1:Poodle_Server/servercompletenodes1:polySurface13/servercompletenodes1:transform22
+        weight: 1
+      - path: servercompletenodes1:Poodle_Server/servercompletenodes1:polySurface18
+        weight: 1
+      - path: servercompletenodes1:Poodle_Server/servercompletenodes1:polySurface18/servercompletenodes1:transform25
+        weight: 1
+      - path: servercompletenodes1:Poodle_Server/servercompletenodes1:transform20
+        weight: 1
+      - path: servercompletenodes1:pSphere1
+        weight: 1
+      - path: servercompletenodes1:pSphere1/servercompletenodes1:transform3
+        weight: 1
+      - path: servercompletenodes1:pSphere2
+        weight: 1
+      - path: servercompletenodes1:pSphere2/servercompletenodes1:transform12
+        weight: 1
+      - path: servercompletenodes1:pSphere3
+        weight: 1
+      - path: servercompletenodes1:pSphere3/servercompletenodes1:transform1
+        weight: 1
+      - path: servercompletenodes:orangelogoserver1:pCube1
+        weight: 1
+      - path: servercompletenodes:orangelogoserver1:pCube1/servercompletenodes:transform26
+        weight: 1
+      - path: servercompletenodes:orangelogoserver:pCube1
+        weight: 1
+      - path: servercompletenodes:orangelogoserver:pCube1/servercompletenodes:transform5
+        weight: 1
+      - path: servercompletenodes:pCube1
+        weight: 1
+      - path: servercompletenodes:pCube1/servercompletenodes:transform11
+        weight: 1
+      - path: servercompletenodes:pCube2
+        weight: 1
+      - path: servercompletenodes:pCube2/servercompletenodes:transform17
+        weight: 1
+      - path: servercompletenodes:pCube3
+        weight: 1
+      - path: servercompletenodes:pCube3/servercompletenodes:transform18
+        weight: 1
+      - path: servercompletenodes:pCube4
+        weight: 1
+      - path: servercompletenodes:pCube4/servercompletenodes:transform19
+        weight: 1
+      - path: servercompletenodes:pCube5
+        weight: 1
+      - path: servercompletenodes:pCube5/servercompletenodes:transform15
+        weight: 1
+      - path: servercompletenodes:pCube7
+        weight: 1
+      - path: servercompletenodes:pCube7/servercompletenodes:transform16
+        weight: 1
+      - path: servercompletenodes:pCube8
+        weight: 1
+      - path: servercompletenodes:pCube8/servercompletenodes:transform7
+        weight: 1
+      - path: servercompletenodes:pCube9
+        weight: 1
+      - path: servercompletenodes:pCube9/servercompletenodes:transform8
+        weight: 1
+      - path: servercompletenodes:pCube10
+        weight: 1
+      - path: servercompletenodes:pCube10/servercompletenodes:transform9
+        weight: 1
+      - path: servercompletenodes:pCube11
+        weight: 1
+      - path: servercompletenodes:pCube11/servercompletenodes:transform13
+        weight: 1
+      - path: servercompletenodes:pCube12
+        weight: 1
+      - path: servercompletenodes:pCube12/servercompletenodes:transform14
+        weight: 1
+      - path: servercompletenodes:pCube13
+        weight: 1
+      - path: servercompletenodes:pCube13/servercompletenodes:transform6
+        weight: 1
+      - path: servercompletenodes:pCube14
+        weight: 1
+      - path: servercompletenodes:pCube14/servercompletenodes:transform10
+        weight: 1
+      - path: servercompletenodes:pCube15
+        weight: 1
+      - path: servercompletenodes:pCube15/servercompletenodes:transform2
+        weight: 1
+      - path: servercompletenodes:pCube16
+        weight: 1
+      - path: servercompletenodes:pCube16/servercompletenodes:transform4
+        weight: 1
+      - path: servercompletenodes:Poodle_Server
+        weight: 1
+      - path: servercompletenodes:Poodle_Server/servercompletenodes:polySurface1
+        weight: 1
+      - path: servercompletenodes:Poodle_Server/servercompletenodes:polySurface1/servercompletenodes:transform23
+        weight: 1
+      - path: servercompletenodes:Poodle_Server/servercompletenodes:polySurface2
+        weight: 1
+      - path: servercompletenodes:Poodle_Server/servercompletenodes:polySurface2/servercompletenodes:transform24
+        weight: 1
+      - path: servercompletenodes:Poodle_Server/servercompletenodes:polySurface4
+        weight: 1
+      - path: servercompletenodes:Poodle_Server/servercompletenodes:polySurface4/servercompletenodes:transform21
+        weight: 1
+      - path: servercompletenodes:Poodle_Server/servercompletenodes:polySurface5
+        weight: 1
+      - path: servercompletenodes:Poodle_Server/servercompletenodes:polySurface5/servercompletenodes:transform22
+        weight: 1
+      - path: servercompletenodes:Poodle_Server/servercompletenodes:polySurface11
+        weight: 1
+      - path: servercompletenodes:Poodle_Server/servercompletenodes:polySurface11/servercompletenodes:transform25
+        weight: 1
+      - path: servercompletenodes:Poodle_Server/servercompletenodes:polySurface12
+        weight: 1
+      - path: servercompletenodes:Poodle_Server/servercompletenodes:polySurface12/servercompletenodes:transform28
+        weight: 1
+      - path: servercompletenodes:Poodle_Server/servercompletenodes:polySurface13
+        weight: 1
+      - path: servercompletenodes:Poodle_Server/servercompletenodes:polySurface13/servercompletenodes:transform27
+        weight: 1
+      - path: servercompletenodes:Poodle_Server/servercompletenodes:polySurface18
+        weight: 1
+      - path: servercompletenodes:Poodle_Server/servercompletenodes:polySurface18/servercompletenodes:transform29
+        weight: 1
+      - path: servercompletenodes:Poodle_Server/servercompletenodes:transform20
+        weight: 1
+      - path: servercompletenodes:pSphere1
+        weight: 1
+      - path: servercompletenodes:pSphere1/servercompletenodes:transform3
+        weight: 1
+      - path: servercompletenodes:pSphere2
+        weight: 1
+      - path: servercompletenodes:pSphere2/servercompletenodes:transform12
+        weight: 1
+      - path: servercompletenodes:pSphere3
+        weight: 1
+      - path: servercompletenodes:pSphere3/servercompletenodes:transform1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
